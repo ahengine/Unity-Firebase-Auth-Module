@@ -1,2 +1,4 @@
 # Firebase Auth Sample 
- Tested on 2023 02 06 | Unity 2022.2.4f1
+ Tested Date: 2023 02 06 | Unity 2022.2.4f1
+ 
+ After Clone Project => Add Firebase Auth Unity Package
